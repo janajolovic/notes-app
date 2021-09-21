@@ -91,6 +91,10 @@ textarea:focus {
 	cursor: pointer;
 }
 
+.delete-icon:hover {
+	color: rgb(78, 78, 78);
+}
+
 .search {
 	display: flex;
 	align-items: center;
